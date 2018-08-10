@@ -1,0 +1,22 @@
+{
+  "libs": {
+    "cssPath": [
+      "./app/libs/normalize-css/normalize.css"
+    ],
+    "jsPath": [
+      "./app/libs/jquery/dist/jquery.min.js"
+    ]
+  },
+  "dirs": {
+    "srcPath": "./app",
+    "srcPathSass": "./app/sass",
+    "srcPathCss": "./app/css",
+    "srcPathJs": "./app/js",
+    "srcPathBlocks": "./app/blocks",
+    "buildPath": "./build",
+    "buildPathCss": "./build/css",
+    "buildPathJs": "./build/js",
+    "buildPathFonts": "./build/fonts",
+    "buildPathImg": "./build/img"
+  }
+}

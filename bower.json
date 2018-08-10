@@ -1,0 +1,14 @@
+{
+  "name": "studio.start",
+  "description": "Start build project",
+  "main": "index.html",
+  "authors": [
+    "Daniil Prokofev"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize-css": "^7.0.0"
+  }
+}
